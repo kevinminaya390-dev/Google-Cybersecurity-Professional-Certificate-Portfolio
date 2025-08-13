@@ -1,0 +1,3 @@
+# Professional Statement
+
+> *"A driven and hardworking cybersecurity professional with a strong passion for protecting systems and data in an ever-evolving digital landscape. Dedicated to applying skills to tackle modern security challenges through strategic thinking and practical solutions. Committed to continuous growth and contributing to impactful, security-focused teams."*
