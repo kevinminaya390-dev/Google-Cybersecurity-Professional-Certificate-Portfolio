@@ -1,4 +1,4 @@
-# Course 3 Glossary  
+# Course 3 Glossary - Connect and Protect: Networks and Network Security
 **Google Cybersecurity Professional Certificate**
 
 ---
