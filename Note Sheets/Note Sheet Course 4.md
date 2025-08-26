@@ -1,4 +1,4 @@
-# Course 4 Glossary  
+# Course 4 Glossary - Tools of the Trade: Linux and SQL
 **Google Cybersecurity Professional Certificate**
 
 ---
